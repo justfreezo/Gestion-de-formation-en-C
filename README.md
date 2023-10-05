@@ -32,7 +32,7 @@ La recette du projet aura lieu lors de la deuxième séance de TP, où le progra
 
 Le projet a été évalué et a obtenu la note suivante :
 
-- **Note Générale (sur 20) :** 20
+- **Note Générale (sur 20) :** 20.5
 - **Sprint 5 Validé :** Oui
 - **Note de Sprint (sur 10 + 1 bonus) :** 11
 - **Note de Rapport (sur 3) :** 2.5
