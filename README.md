@@ -28,6 +28,18 @@ Le développement du projet suit un processus agile avec quatre sprints, chacun 
 
 La recette du projet aura lieu lors de la deuxième séance de TP, où le programme sera testé avec un jeu de données de test spécifique. La remise du projet doit inclure un dossier de développement au format PDF et le code source du sprint de plus haut niveau validé lors de la recette.
 
+## Résultats de l'évaluation
+
+Le projet a été évalué et a obtenu la note suivante :
+
+- **Note Générale (sur 20) :** 20
+- **Sprint 5 Validé :** Oui
+- **Note de Sprint (sur 10 + 1 bonus) :** 11
+- **Note de Rapport (sur 3) :** 2.5
+  - *Commentaire : Rapport bien écrit, bien que légèrement trop court.*
+- **Note de Code (sur 7) :** 7
+  - *Commentaire : Main court, fonctions commentées, et variables nommées de façon adéquate.*
+  - 
 ---
 
 *Remarque : Ce README fournit une synthèse générale du projet, veuillez consulter le dossier de développement complet pour plus de détails.*
