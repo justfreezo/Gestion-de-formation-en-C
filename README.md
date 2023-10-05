@@ -39,7 +39,6 @@ Le projet a été évalué et a obtenu la note suivante :
   - *Commentaire : Rapport bien écrit, bien que légèrement trop court.*
 - **Note de Code (sur 7) :** 7
   - *Commentaire : Main court, fonctions commentées, et variables nommées de façon adéquate.*
-  - 
 ---
 
 *Remarque : Ce README fournit une synthèse générale du projet, veuillez consulter le dossier de développement complet pour plus de détails.*
